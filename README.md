@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <div>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   <a href="https://github.com/isaquebc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaquebc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquebc&layout=compact&langs_count=7&theme=dark"/>
