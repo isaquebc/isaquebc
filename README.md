@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <div>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=isaquebc&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   <a href="https://github.com/isaquebc">
     https://github-profile-trophy.vercel.app/?username=isaquebc
     <img height="180em" src="https://github-profile-trophy.vercel.app/?username=isaquebc&theme=onedark"/>
