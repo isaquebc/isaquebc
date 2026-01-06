@@ -2,6 +2,10 @@
 
 This is my personal profile, here you will find old and usually abandoned projects. I decided to keep it here because it have sentimental value about my code evolution.
 
+I'm brazilian, married, living in São Paulo - Brazil
+Coding since 2014 (university)
+Being paid for it since 2017
+
 Projects that I work, worked or give suport in some way:
 
 
