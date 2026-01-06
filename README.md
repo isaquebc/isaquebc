@@ -4,7 +4,7 @@ This is my personal profile, here you will find old and usually abandoned projec
 
 I'm brazilian, married, living in São Paulo - Brazil
 - Coding since 2014 (university)
-- Being paid for it since 2017
+- Beeing paid for it since 2017
 
 ##### LinkedIn:
   - [https://www.linkedin.com/in/isaquebc/](https://www.linkedin.com/in/isaquebc/)
