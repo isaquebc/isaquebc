@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is my personal profile, here you will find old and usually abandoned projects. I decided to keep it here because it have sentimental value about my code evolution.
+This is my personal profile, here you will find old and usually abandoned projects. I decided to keep it here because it have sentimental value about my code evolution, and tell me where not go back.
 
 I'm brazilian, married, living in São Paulo - Brazil
 - Coding since 2014 (university)
