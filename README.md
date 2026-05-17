@@ -12,7 +12,7 @@ Senior full stack developer who builds end-to-end systems — from UI to DevOps.
 
 | Period | Role | Company |
 |---|---|---|
-| Mar 2021 – Apr 2026 | Senior Full Stack Developer | CDI GlobalTrack · Oklahoma, USA (Remote) |
+| Mar 2021 – present | Senior Full Stack Developer | CDI GlobalTrack · Oklahoma, USA (Remote) |
 | 2019 – 2021 | CTO | ACE1 · Brazil |
 | 2017 – 2019 | Tech Lead | TheVelops · Brazil |
 
